@@ -1,0 +1,3 @@
+.submenu :hover > .dropdown-menu  {
+    display: block;
+}
